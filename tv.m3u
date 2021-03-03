@@ -10,85 +10,9 @@ https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b7
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3NgCOwbE1o8xk4-Fi107sg)/dm/3/x7gy059/d/live-0.m3u8
 #EXTINF:-1 tvg-id="108942" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-YMFTyatktS4/XzgdjfP3Z4I/AAAAAAAA4V0/ufSfgaejWhUKTvcQB_47jJqsMtDqCNxIACK8BGAsYHg/s0/2020-08-15.jpg", Telesitema 11
 https://ss5.domint.net:3016/tv11_str/canal11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kNOwvRN.jpg" tvg-url="" group-title="",Telecentro Canal 13 (480p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kNOwvRN.jpg" tvg-url="" group-title="",Telecentro Canal 13
 https://playback.akamaized.net/streams/28126860_9438854_lsipm6555kyr55175u5_1/media/28126860_9438854_lsipm6555kyr55175u5_1@896000p.m3u8?dw=14400&ts=1614780000&hdnts=exp=1614955742~acl=/streams/28126860_9438854_lsipm6555kyr55175u5_1/media*~hmac=bebc33e197c23ad15d4e49013eee3fe1d42ed720f3252d96b5405eb7222f793c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" tvg-url="" group-title="",Digital 15
 https://playback.akamaized.net/streams/27456795_8268514_lsigftzm7fxgdvc9cjx_1/media/27456795_8268514_lsigftzm7fxgdvc9cjx_1@628000p.m3u8?dw=14400&ts=1614780000&hdnts=exp=1614956028~acl=/streams/27456795_8268514_lsigftzm7fxgdvc9cjx_1/media*~hmac=71fb78314f714921e21f1ffaab12a948705fffa42fc115c15a01baa2b29f475f
-#EXTINF:-1 tvg-id="108942" tvg-name="Telesistema" tvg-logo="https://omgdominicana.com.imgeng.in/https://storage.googleapis.com/mmc-cdn-bucket/logo-cdn-white.png", CDN Canal 37
-https://5790d294af2dc.streamlock.net/8050/8050/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3nCRd88.png" tvg-url="" group-title="",TNI Canal 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1172009657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://canaldelsol.com/wp-content/uploads/2016/12/LOGO-SOL1-1.png" tvg-url="" group-title="",Canal del Sol 
-https://5790d294af2dc.streamlock.net/8050/8050/playlist.m3u8
-#EXTINF:-1,WhatsApp: 18094913197 Updated 30-09-2019
-http://stream.zenolive.com/492ru4zwh4duv
-#EXTINF:-1,Teleantillas (Rep. Dominicana)
-http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w460875019.m3u8
-#EXTINF:-1, Mision ELTV (Rep. Dominicana)
-https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
-#EXTINF:-1, CDN (Rep. Dominicana)
-https://5790d294af2dc.streamlock.net:443/8050/8050/playlist.m3u8
-#EXTINF:-1,PH (Rep. Dominicana)
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
-#EXTINF:-1, Color Visión (Rep. Dominicana)
-https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w659635168.m3u8
-#EXTINF:-1, CotubanamaTV (Rep. Dominicana)
-https://cdn.hostlagarto.com:4445/cotubanamatv/cotubanamatv.myStream/playlist.m3u8
-#EXTINF:-1, Telesistema (Rep. Dominicana)
-http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
-#EXTINF:-1, Otra Banda TV (Rep. Dominicana)
-http://ad.mysisli.com/live/otrabandatvlive/index.m3u8
-#EXTINF:-1, FuegoTV (Rep. Dominicana)
-http://184.173.181.2:1935/8020/8020/chunklist.m3u8
-#EXTINF:-1, Cinevision19 (Rep. Dominicana)
-http://cinevision01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1, Boreal TV (Rep. Dominicana)
-https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w19857724.m3u8
-#EXTINF:-1, Faro Vision (Rep. Dominicana)
-http://184.173.181.2:1935/8060/8060/chunklist_w41087696.m3u8
-#EXTINF:-1, Telefuturo (Rep. Dominicana)
-http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
-#EXTINF:-1, RNN (Rep. Dominicana)
-http://ss1.domint.net:2122/rnn_str/canal27/playlist.m3u8
-#EXTINF:-1, TeleBendicion (Rep. Dominicana)
-http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
-#EXTINF:-1, CanaTV (Rep. Dominicana)
-https://59f1cbe63db89.streamlock.net:1443/canavisiontv/_definst_/canavisiontv/chunklist_w1522574806.m3u8
-#EXTINF:-1, La Voz del Trópico (Rep. Dominicana)
-http://ss8.domint.net:2084/vttv_str/tropicotv/playlist.m3u8
-#EXTINF:-1, Nexxo (Rep. Dominicana)
-http://ss6.domint.net:2106/nxo_str/nexxotv/playlist.m3u8
-#EXTINF:-1, ZOL 106 (Rep. Dominicana)
-http://ss3.domint.net:3108/zol_str/vzol/chunklist_w1436990381.m3u8
-#EXTINF:-1, Carivision (Rep. Dominicana)
-http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
-#EXTINF:-1, SuperTV55 (Rep. Dominicana)
-http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
-#EXTINF:-1, RomanaTV (Rep. Dominicana)
-http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1, MaimonTV3 (Rep. Dominicana)
-http://ss1.domint.net:2314/mtv_str/maimon/chunklist_w127566966.m3u8
-#EXTINF:-1, Telenord10 (Rep. Dominicana)
-http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w1592465196.m3u8
-#EXTINF:-1, Telenord12 (Rep. Dominicana)
-http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w646820866.m3u8
-#EXTINF:-1, Peravia Vision (Rep. Dominicana)
-http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
-#EXTINF:-1, Hermanas Mirabal (Rep. Dominicana)
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
-#EXTINF:-1, Microvision (Rep. Dominicana)
-http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
-#EXTINF:-1,Vallevision (Rep. Dominicana)
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-#EXTINF:-1,LunaTV (Rep. Dominicana)
-http://ss1.domint.net:2140/luna_str/lunatv/chunklist.m3u8
-#EXTINF:-1,OUI TV (Rep. Dominicana)
-http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w516501951.m3u8
-#EXTINF:-1,TELECANAL 28 (Rep. Dominicana)
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8
-#EXTINF:-1,TELENORd 10 (Rep. Dominicana)
-http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w579731506.m3u8
-#EXTINF:-1,telenord 12 (Rep. Dominicana)
-http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w1249362279.m3u8
-#EXTINF:-1, TeleBendicion (Rep. Dominicana)
-http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
