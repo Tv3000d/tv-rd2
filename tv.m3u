@@ -19,7 +19,7 @@ https://5790d294af2dc.streamlock.net/8050/8050/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3nCRd88.png" tvg-url="" group-title="",TNI Canal 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1172009657.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://canaldelsol.com/wp-content/uploads/2016/12/LOGO-SOL1-1.png" tvg-url="" group-title="",Canal del Sol 
-https://canaldelsol01.streamprolive.com/hls/live.m3u8
+blob:https://canaldelsol01.streamprolive.com/7924eed9-2281-47ec-a8fd-6be8704f8247
 #EXTINF:-1,WhatsApp: 18094913197 Updated 30-09-2019
 http://stream.zenolive.com/492ru4zwh4duv
 #EXTINF:-1,Teleantillas (Rep. Dominicana)
