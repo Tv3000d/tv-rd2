@@ -18,5 +18,4 @@ https://playback.akamaized.net/streams/27456795_8268514_lsigftzm7fxgdvc9cjx_1/me
 https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1614879117~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=c9cac98f79b7420d965ca87a8776aa407affeeed1d439701e3e72c0c811000a0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3nCRd88.png" tvg-url="" group-title="",TNI Canal 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1172009657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://canaldelsol.com/wp-content/uploads/2016/12/LOGO-SOL1-1.png" tvg-url="" group-title="",Canal del Sol 
-https://canaldelsol01.streamprolive.com/hls/live.m3u8
+
