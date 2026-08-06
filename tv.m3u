@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="El Seis" group-title="Republica Dominicana",El Seis
 https://stream.elseis.do/canal6/live_1080.m3u8
 
-#EXTINF:-1 tvg-name="CanaldelSol.do" group-title="República Dominicana",Canal del Sol
+#EXTINF:-1 tvg-name="Canal del Sol.do" group-title="República Dominicana",Canal del Sol
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
 
 #EXTINF:-1 tvg-name="Telefuturo 23" group-title="Republica Dominicana",Telefuturo 23
