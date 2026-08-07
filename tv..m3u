@@ -4,7 +4,7 @@
 https://stream.elseis.do/canal6/live_1080.m3u8
 
 #EXTINF:-1 tvg-name="Canal del Sol" group-title="Republica Dominicana",Canal del Sol
-https://stream.canaldelsol.com/sol26/live_480.m3u8
+https://stream.canaldelsol.com/sol26/live_720.m3u8
 
 #EXTINF:-1 tvg-name="Telefuturo 23" group-title="Republica Dominicana",Telefuturo 23
 http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
