@@ -4,10 +4,10 @@
 https://stream.elseis.do/canal6/live_1080.m3u8
 
 #EXTINF:-1 tvg-name="Canal del Sol" group-title="Republica Dominicana",Canal del Sol
-https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
 
 #EXTINF:-1 tvg-name="Telefuturo 23" group-title="Republica Dominicana",Telefuturo 23
 http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
 
 #EXTINF:-1 tvg-name="N16 Noticias 16" group-title="Republica Dominicana",N16 Noticias 16
-https://cdn.essastream.com:3457/live/noticiasn16live.m3u8⁠
+https://edge.essastream.com/noticias16/playlist.m3u8
