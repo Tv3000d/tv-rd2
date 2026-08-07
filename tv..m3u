@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="El Seis" group-title="Republica Dominicana",El Seis
-https://stream.elseis.do/canal6/live_1080.m3u8
+https://stream.elseis.do/canal6/live_720.m3u8
 
 #EXTINF:-1 tvg-name="Canal del Sol" group-title="Republica Dominicana",Canal del Sol
 https://stream.canaldelsol.com/sol26/live_720.m3u8
