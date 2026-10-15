@@ -16,4 +16,7 @@ https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Adult Swim" group-title="Z",Adult Swim
+https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim 1080p" group-title="Z",Adult Swim 1080p
 http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
