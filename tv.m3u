@@ -14,3 +14,6 @@ https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Super Canal 33" group-title="Republica Dominicana",Super Canal 33
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim"
+http://168.197.104.22/ADULT_SWIM/index.m3u8
