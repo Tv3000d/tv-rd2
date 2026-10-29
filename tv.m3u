@@ -3,8 +3,7 @@
 #EXTINF:-1 tvg-id="ElSeis6.do" tvg-name="El Seis 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="Republica Dominicana",El Seis 6
 https://stream.elseis.do/canal6/live_480.m3u8
 
-#EXTINF:-1 tvg-id="Canal del Sol" tvg-name="Canal del Sol" tvg-logo="https://canaldelsol.com/img/logo-canaldelsol.png" group-title="Republica Dominicana",Canal del Sol
-https://stream.canaldelsol.com/sol26/live_480.m3u8
+
 
 #EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Republica Dominicana",Telefuturo
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(6ot32TEesnSP8yUqyShDZ63t-7gW0qKtC35vWrRfuvatxU1qL7NnpM5xJ3ux5pVy6qDjlcW769RP_kcUD2PSS7pvFgJtAzdJotDAn9I4SsnZDcDNQwsSLzVImKZ6cS6a)/cloud/3/x9imtbq/s/live-480.m3u8
