@@ -14,3 +14,6 @@ https://edge.essastream.com/noticias16/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Punta Cana TV" group-title="Republica Dominicana",Punta Cana TV
 https://cdnfox.hostlagarto.com/puntacanatv/tracks-v1a1/mono.m3u8
+
+ #EXTINF:-1,Investigation Discovery
+ http://latino-webtv.ml/7878/263.m3u8
