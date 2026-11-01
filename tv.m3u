@@ -15,8 +15,8 @@ https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Super Canal 33" tvg-name="Super Canal 33" tvg-logo="https://i.imgur.com/AZBamNi.png" group-title="Republica Dominicana",Super Canal 33
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Adult Swim" group-title="Z",Adult Swim
+#EXTINF:-1 tvg-name="Adult Swim" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA2klEQVR4AWIYagDAxRyCQAiDUQD+OyxdRxDsZVhmtQerHazGpWXb4rpw0bTeZmdpPSytmVbeiXdwbOk93gevEWJoy6kTvWieZgCYEg8A+mka8ZjvfH2BMaLlSNh+6Dpi0uxGMhLbvuuBuP8jJ5mRkBd2IkZ4Ggr0cJPHu0eSS7gqnKau97Ac2Y58rJBMAmDpBHKsMSBM7kZaQwYqRDZ040vNJC+MokS4LcKOSEoltCU6IEScdOLK2Ra3HfFNz7NaqVday+YzaCAggg8BoMGHN+BxR5k1MMqGGAAApi2xNuYlyeQAAAAASUVORK5CYII="  group-title="Z",Adult Swim
 https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Adult Swim 1080p" group-title="Z",Adult Swim 1080p
+#EXTINF:-1 tvg-name="Adult Swim 1080p" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA2klEQVR4AWIYagDAxRyCQAiDUQD+OyxdRxDsZVhmtQerHazGpWXb4rpw0bTeZmdpPSytmVbeiXdwbOk93gevEWJoy6kTvWieZgCYEg8A+mka8ZjvfH2BMaLlSNh+6Dpi0uxGMhLbvuuBuP8jJ5mRkBd2IkZ4Ggr0cJPHu0eSS7gqnKau97Ac2Y58rJBMAmDpBHKsMSBM7kZaQwYqRDZ040vNJC+MokS4LcKOSEoltCU6IEScdOLK2Ra3HfFNz7NaqVday+YzaCAggg8BoMGHN+BxR5k1MMqGGAAApi2xNuYlyeQAAAAASUVORK5CYII=" group-title="Z",Adult Swim 1080p
 http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
